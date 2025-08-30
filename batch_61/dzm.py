@@ -1,0 +1,25 @@
+import jpype
+import jpype.imports
+
+# Auto-generated wrapper for dzm
+class dzmWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = dzm(*args, **kwargs)
+
+    def toString(self, ):
+        return self.obj.toString()
+
+    def hashCode(self, ):
+        return self.obj.hashCode()
+
+    def dzm(self, $$0, $$1):
+        return self.obj.dzm($$0, $$1)
+
+    def equals(self, $$0):
+        return self.obj.equals($$0)
+
+    def a(self, ):
+        return self.obj.a()
+
+    def b(self, ):
+        return self.obj.b()

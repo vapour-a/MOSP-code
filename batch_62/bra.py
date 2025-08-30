@@ -1,0 +1,43 @@
+import jpype
+import jpype.imports
+
+# Auto-generated wrapper for bra
+class braWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = bra(*args, **kwargs)
+
+    def a(self, $$0):
+        return bra.a($$0)
+
+    def bra(self, $$0, $$1, $$2, $$3):
+        return self.obj.bra($$0, $$1, $$2, $$3)
+
+    def bra(self, $$0, $$1, $$2):
+        return self.obj.bra($$0, $$1, $$2)
+
+    def a(self, ):
+        return self.obj.a()
+
+    def b(self, ):
+        return self.obj.b()
+
+    def c(self, ):
+        return self.obj.c()
+
+    def d(self, ):
+        return self.obj.d()
+
+    def e(self, ):
+        return self.obj.e()
+
+    def f(self, ):
+        return self.obj.f()
+
+    def g(self, ):
+        return self.obj.g()
+
+    def equals(self, $$0):
+        return self.obj.equals($$0)
+
+    def hashCode(self, ):
+        return self.obj.hashCode()

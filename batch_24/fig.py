@@ -1,0 +1,16 @@
+import jpype
+import jpype.imports
+
+# Auto-generated wrapper for fig
+class figWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = fig(*args, **kwargs)
+
+    def a(self, $$0):
+        return self.obj.a($$0)
+
+    def a(self, $$0, $$1, $$2, $$3, $$4, $$5, $$6, $$7):
+        return self.obj.a($$0, $$1, $$2, $$3, $$4, $$5, $$6, $$7)
+
+    def fig(self, $$1, $$2, $$3, $$4, $$5, $$6, $$7):
+        return self.obj.fig($$1, $$2, $$3, $$4, $$5, $$6, $$7)

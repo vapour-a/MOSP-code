@@ -1,0 +1,13 @@
+import jpype
+import jpype.imports
+
+# Auto-generated wrapper for a
+class aWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = a(*args, **kwargs)
+
+    def a(self, paramInt, parama):
+        return self.obj.a(paramInt, parama)
+
+    def a(self, paramsw):
+        return self.obj.a(paramsw)

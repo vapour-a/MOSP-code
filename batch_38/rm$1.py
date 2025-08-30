@@ -1,0 +1,43 @@
+import jpype
+import jpype.imports
+
+# Auto-generated wrapper for null
+class nullWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = null(*args, **kwargs)
+
+    def c(self, ):
+        return self.obj.c()
+
+    def IOException(self, this.a):
+        return self.obj.IOException(this.a)
+
+    def a(self, $$0, $$1, $$2):
+        return self.obj.a($$0, $$1, $$2)
+
+    def c(self, ):
+        return self.obj.c()
+
+    def a(self, $$0, $$1):
+        return self.obj.a($$0, $$1)
+
+    def c(self, ):
+        return self.obj.c()
+
+    def a(self, $$0, $$1):
+        return self.obj.a($$0, $$1)
+
+    def c(self, ):
+        return self.obj.c()
+
+    def a(self, $$0):
+        return self.obj.a($$0)
+
+    def c(self, ):
+        return self.obj.c()
+
+    def a(self, ):
+        return self.obj.a()
+
+    def b(self, ):
+        return self.obj.b()

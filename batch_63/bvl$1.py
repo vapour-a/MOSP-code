@@ -1,0 +1,13 @@
+import jpype
+import jpype.imports
+
+# Auto-generated wrapper for null
+class nullWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = null(*args, **kwargs)
+
+    def d(self, ):
+        return self.obj.d()
+
+    def c(self, ):
+        return self.obj.c()

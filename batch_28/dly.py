@@ -1,0 +1,61 @@
+import jpype
+import jpype.imports
+
+# Auto-generated wrapper for dly
+class dlyWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = dly(*args, **kwargs)
+
+    def b(self, ):
+        return self.obj.b()
+
+    def dly(self, $$0):
+        return self.obj.dly($$0)
+
+    def a(self, $$0):
+        return dly.a($$0)
+
+    def a(self, $$0):
+        return self.obj.a($$0)
+
+    def a(self, $$0, $$1, $$2, $$3):
+        return self.obj.a($$0, $$1, $$2, $$3)
+
+    def gu(self, $$3.a():
+        return self.obj.gu($$3.a()
+
+    def gu(self, $$3.a():
+        return self.obj.gu($$3.a()
+
+    def gu(self, $$3.a():
+        return self.obj.gu($$3.a()
+
+    def a(self, $$0, $$1, $$2, $$3, $$4):
+        return self.obj.a($$0, $$1, $$2, $$3, $$4)
+
+    def eed(self, $$2):
+        return self.obj.eed($$2)
+
+    def a(self, $$0):
+        return self.obj.a($$0)
+
+    def a(self, ):
+        return self.obj.a()
+
+    def b(self, ):
+        return self.obj.b()
+
+    def c(self, ):
+        return self.obj.c()
+
+    def d(self, ):
+        return self.obj.d()
+
+    def e(self, ):
+        return self.obj.e()
+
+    def f(self, ):
+        return self.obj.f()
+
+    def a(self, $$0):
+        return self.obj.a($$0)
