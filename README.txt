@@ -1,1 +1,1 @@
-MOSP is based off of Minecraft 1.20.1 with fabric. The source code has been changed and rewritten in python a launcher will follow suit
+MOSP is based off of Minecraft 1.20.1 with fabric. The source code has been changed and rewritten in python a launcher will follow suit and currently there is no way to run the game this will be the final result apart from updates so you can build on top of this to get a game running.
