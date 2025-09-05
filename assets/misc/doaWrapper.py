@@ -1,0 +1,22 @@
+import jWrapperpype
+import jWrapperpype.imports
+
+# Auto-generated wrapper for doa
+class doaWrapper:
+    def __init__(self, *args, **kwargs):
+        self.obj = doa(*args, **kwargs)
+
+    def a(self, $$0):
+        return self.obj.a($$0)
+
+    def doa(self, $$0, $$1, $$2):
+        return self.obj.doa($$0, $$1, $$2)
+
+    def a(self, ):
+        return self.obj.a()
+
+    def a(self, $$0, $$1, $$2, $$3, $$4, $$5, $$6, $$7, $$8):
+        return self.obj.a($$0, $$1, $$2, $$3, $$4, $$5, $$6, $$7, $$8)
+
+    def a(self, $$0, $$1, $$2, $$3, $$4, $$5):
+        return self.obj.a($$0, $$1, $$2, $$3, $$4, $$5)
