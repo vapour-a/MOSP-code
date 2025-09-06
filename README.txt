@@ -1,2 +1,15 @@
-MOSP is based off of Minecraft 1.20.1 with fabric. The source code has been changed and rewritten in python and currently there is no way to run the game this will be the final result apart from updates so you can build on top of this to get a game running.
-This code has been seperated into batches feel free to do anything with this code. Also no rendering or anything is handled only entities and stuff everything minecraft has is handled you have to handle the rest
+MOSP is a Python-based reimplementation of Minecraft 1.20.1 using Fabric. The original Java source code has been rewritten and refactored in Python, serving as a foundation for anyone looking to build a Minecraft-inspired game.
+
+Note: This project is not playable. Rendering, graphics, and input handling are not implemented—only entities and core game logic exist. This is only a foundation.
+Features
+	•	Modular codebase organized into batches for easy exploration and extension.
+	•	Core game mechanics and entities from Minecraft are implemented.
+	•	Open for developers to build on top of and add rendering, UI, or other systems.
+
+Contributing
+	•	Contributions, forks, and extensions are welcome.
+	•	Use this repository as a learning base or starting point for your own project.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
